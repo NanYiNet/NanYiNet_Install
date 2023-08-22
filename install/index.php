@@ -40,9 +40,9 @@ function checkclass($f,$m = false) {
     <title><?php echo $web['webname'] ?> - 安装向导</title>
     <meta name="author" content="nathan">
     <link rel="icon" href="favicon.ico" type="image/ico">
-    <link href="../assets/lyear/css/bootstrap.min.css" rel="stylesheet">
-    <link href="../assets/lyear/css/materialdesignicons.min.css" rel="stylesheet">
-    <link href="../assets/lyear/css/style.min.css" rel="stylesheet">
+    <link href="static/css/bootstrap.min.css" rel="stylesheet">
+    <link href="static/css/materialdesignicons.min.css" rel="stylesheet">
+    <link href="static/css/style.min.css" rel="stylesheet">
     <style>
         .nathan_center{
             text-align: center;
